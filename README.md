@@ -3,7 +3,7 @@ Package for publishing ATI Force Torque sensor measurements to ROS.
 
 REQUIREMENTS
 CMAKE VERSION > 3.11
-Compile and install jsd from https://github.com/nasa-jpl/jsd. Installation will be done at /opt/jsd
+Compile and install jsd from https://github.com/nasa-jpl/jsd. Installation will be done at /opt/jsd. Tested with version 2.3.10.
 
 FOR ATI SENSOR
 sudo ./devel/lib/ati_sensor/ati_sensor eno1 1 1000 0
